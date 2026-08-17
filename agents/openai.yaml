@@ -1,0 +1,4 @@
+interface:
+  display_name: "宠物丑萌涂鸦"
+  short_description: "按原照片姿势生成有字或无字的粗描边宠物涂鸦"
+  default_prompt: "使用 $doggy-doodle，保留我上传宠物照片的大姿势和动作方向，把它画成系列感优先、轻度相似的装饰涂鸦；根据我的要求输出有文字版、无文字版或两版同时输出。"
